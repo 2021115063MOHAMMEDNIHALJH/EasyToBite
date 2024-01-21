@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family:sans-serif;
+}
+
+header{
+    padding:1.6rem;
+   
+}
+
+header a{
+    text-decoration:none;
+    color:black;
+    list-style-type:none;
+    padding-right:1.4rem;
+}
+header ul li{
+    display:inline-block;
+    font-size:1.4rem;
+}
+#fir{
+    padding-left:8rem;
+    padding-right:15rem;
+}
+header a:hover{
+    color:rgb(186, 186, 23);
+    text-decoration:underline;
+}
